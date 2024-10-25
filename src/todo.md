@@ -8,7 +8,11 @@ WRITING TO THE TERMINAL:
     - [ ] Italic
     - [ ] ...
 
-maybe i'll just use crossterm
+
+What i have to render:
+- [ ] Border
+- [ ] Background
+- [ ] State
 
 
 - [ ] Write a terminal canvas
